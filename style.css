@@ -26,12 +26,12 @@ header{
 .servicos {
     margin-top: 80px;
     position: relative;
-    z-index: 5;
+    z-index: 1;
 }
 .banner {
     height: 650px;
     position: relative;
-    margin-bottom: 60px;
+    margin-bottom: 2px;
 }
 .logo{
     width:70px;
