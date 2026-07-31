@@ -24,11 +24,8 @@ header{
     z-index:1000;
 }
 .servicos {
-    margin-top: 20px;
-    position: relative;
-    z-index: 2;
+    margin-top: 0%;
 }
-
 .banner {
     margin-bottom: 60px;
 }
